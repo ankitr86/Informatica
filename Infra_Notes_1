@@ -1,0 +1,9 @@
+$ cd $INFA_HOME/server/bin/
+$ pmpasswd MyStr0ngP#d
+
+Encrypted string -->KBACAF604ekJHoTuzISGOjo==<--
+Will decrypt to -->MyStr0ngP#d<--
+
+$ setenv INFA_USER_PWD KBACAF604ekJHoTuzISGOjo==
+$ echo $INFA_USER_PWD
+KBACAF604ekJHoTuzISGOjo==
