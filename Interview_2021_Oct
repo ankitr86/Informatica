@@ -1,0 +1,4 @@
+Which source doesnot have source qualifer or have you seen any mapping which doesnt have source qualifier ?
+How many ways we can delete the data from Target table before loading the data?
+How you can fail a mapping/workflow - logic in mapping ?
+Workflow 1 and Workflow 2.  Workflow 2 should execute on success of Workflow 1
